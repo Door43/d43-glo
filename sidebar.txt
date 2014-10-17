@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[glo:home|Door43 (glo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-glo|d43-glo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-glo/archive/master.zip|d43-glo.zip]]
+
+**Recent Changes**
+{{changes>ns = glo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/glo|Ethnologue data]]
+
